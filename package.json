@@ -3,7 +3,7 @@
   "description": "Generator structure based in React with Redux",
   "author": "Michael Douglas",
   "keywords": ["react generator", "yo", "Redux"],
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "generators/app/index.js",
   "license": "MIT",
   "files": ["generators"],

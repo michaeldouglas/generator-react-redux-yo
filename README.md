@@ -17,5 +17,5 @@ npm install -g generator-react-redux-yo
 and finally you use execute generator `generator-react-redux-yo`:
 
 ``` shell
-yo generator-react-redux-yo
+yo react-redux-yo
 ```
