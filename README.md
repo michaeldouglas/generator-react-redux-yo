@@ -1,6 +1,6 @@
 # Generator React Redux
 
-## Installing yo and react-redux-generator
+## Installing yo and react-redux-generator-yo
 
 First thing is to install `yo` if you preferer use `npm` or `yarn`:
 
@@ -8,14 +8,14 @@ First thing is to install `yo` if you preferer use `npm` or `yarn`:
 npm install -g yo
 ```
 
-And now install the `react-redux-generator`:
+And now install the `react-redux-generator-yo`:
 
 ``` shell
-npm install -g react-redux-generator
+npm install -g react-redux-generator-yo
 ```
 
-and finally you use execute generator `react-redux-generator`:
+and finally you use execute generator `react-redux-generator-yo`:
 
 ``` shell
-yo react-redux-generator
+yo react-redux-generator-yo
 ```
