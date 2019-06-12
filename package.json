@@ -2,17 +2,11 @@
   "name": "react-redux-generator",
   "description": "Generator structure based in React with Redux",
   "author": "Michael Douglas",
-  "keywords": [
-    "react generator",
-    "yo",
-    "Redux"
-  ],
+  "keywords": ["react generator", "yo", "Redux"],
   "version": "1.0.0",
   "main": "generators/app/index.js",
   "license": "MIT",
-  "files": [
-    "generators"
-  ],
+  "files": ["generators"],
   "dependencies": {
     "chalk": "^2.4.2",
     "yeoman-generator": "^4.0.1",
