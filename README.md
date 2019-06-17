@@ -1,5 +1,7 @@
 # Generator React Redux
 
+[![NPM](https://nodei.co/npm/generator-react-redux-yo.png)](https://nodei.co/npm/generator-react-redux-yo/)
+
 ## Installing yo and generator-react-redux-yo
 
 First thing is to install `yo` if you preferer use `npm` or `yarn`:
